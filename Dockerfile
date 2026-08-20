@@ -1,11 +1,9 @@
 FROM mcr.microsoft.com/dotnet/sdk:10.0 AS build
 WORKDIR /src
 
-# Copy project file and restore dependencies
 COPY BetwayDiskiFantasy.Api/BetwayDiskiFantasy.Api.csproj BetwayDiskiFantasy.Api/
 RUN dotnet restore "BetwayDiskiFantasy.Api/BetwayDiskiFantasy.Api.csproj"
 
-# Copy remaining code and publish
 COPY . .
 WORKDIR "/src/BetwayDiskiFantasy.Api"
 RUN dotnet publish "BetwayDiskiFantasy.Api.csproj" -c Release -o /app/publish /p:UseAppHost=false
