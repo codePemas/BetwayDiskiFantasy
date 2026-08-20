@@ -1,0 +1,18 @@
+[
+  { "Name": "Ronwen Williams", "Position": "GK", "TeamName": "Mamelodi Sundowns", "Price": 6.0, "ImageUrl": "https://media.gettyimages.com/id/1987515024/photo/ronwen-williams.jpg" },
+  { "Name": "Khuliso Mudau", "Position": "DEF", "TeamName": "Mamelodi Sundowns", "Price": 5.5, "ImageUrl": "https://media.gettyimages.com/id/1987515025/photo/khuliso-mudau.jpg" },
+  { "Name": "Grant Kekana", "Position": "DEF", "TeamName": "Mamelodi Sundowns", "Price": 5.0, "ImageUrl": "" },
+  { "Name": "Teboho Mokoena", "Position": "MID", "TeamName": "Mamelodi Sundowns", "Price": 7.0, "ImageUrl": "" },
+  { "Name": "Iqraam Rayners", "Position": "FWD", "TeamName": "Mamelodi Sundowns", "Price": 8.0, "ImageUrl": "" },
+  { "Name": "Sipho Chaine", "Position": "GK", "TeamName": "Orlando Pirates", "Price": 5.5, "ImageUrl": "" },
+  { "Name": "Innocent Maela", "Position": "DEF", "TeamName": "Orlando Pirates", "Price": 4.5, "ImageUrl": "" },
+  { "Name": "Monnapule Saleng", "Position": "MID", "TeamName": "Orlando Pirates", "Price": 7.5, "ImageUrl": "" },
+  { "Name": "Patrick Maswanganyi", "Position": "MID", "TeamName": "Orlando Pirates", "Price": 8.0, "ImageUrl": "" },
+  { "Name": "Oswin Apollis", "Position": "FWD", "TeamName": "Orlando Pirates", "Price": 6.0, "ImageUrl": "" },
+  { "Name": "Given Msimango", "Position": "DEF", "TeamName": "Kaizer Chiefs", "Price": 4.5, "ImageUrl": "" },
+  { "Name": "Edson Castillo", "Position": "MID", "TeamName": "Kaizer Chiefs", "Price": 5.0, "ImageUrl": "" },
+  { "Name": "Mduduzi Shabalala", "Position": "MID", "TeamName": "Kaizer Chiefs", "Price": 6.0, "ImageUrl": "" },
+  { "Name": "Wandile Duba", "Position": "FWD", "TeamName": "Kaizer Chiefs", "Price": 5.0, "ImageUrl": "" },
+  { "Name": "Fawaaz Basadien", "Position": "DEF", "TeamName": "Stellenbosch FC", "Price": 5.0, "ImageUrl": "" },
+  { "Name": "Quwan Plaatjies", "Position": "MID", "TeamName": "Stellenbosch FC", "Price": 1.0, "ImageUrl": "" }
+]

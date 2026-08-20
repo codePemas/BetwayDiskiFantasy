@@ -1,0 +1,7 @@
+node_modules/
+.expo/
+bin/
+obj/
+*.db
+dist/
+web-build/

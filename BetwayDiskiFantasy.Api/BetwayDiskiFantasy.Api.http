@@ -1,0 +1,6 @@
+@BetwayDiskiFantasy.Api_HostAddress = http://localhost:5087
+
+GET {{BetwayDiskiFantasy.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
